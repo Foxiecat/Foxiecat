@@ -3,6 +3,7 @@
 My name is Danica, and I am a newly graduated Backend-Developer student!
 
 - 🔭 I’m currently working on my Github profile.
+- 📫 How to reach me: danica.kvilhaug@pm.me
 
 <!--
 **Foxiecat/Foxiecat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
