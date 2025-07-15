@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Danica, and I am a newly graduated Backend-Developer student!
+
+- 🔭 I’m currently working on my Github profile.
+
 <!--
 **Foxiecat/Foxiecat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
