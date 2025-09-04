@@ -3,7 +3,7 @@
 My name is Danica, and I am a newly graduated Backend-Developer student! I am open to hear any interesting project ideas that I could learn from.
 
 - 🔭 I’m currently working on random projects while I'm job hunting
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently experimenting with React
 - 📫 How to reach me: danica.kvilhaug@pm.me
 
 <!--
