@@ -3,7 +3,7 @@
 My name is Danica, and I am a newly graduated Backend-Developer student! I am open to hear any interesting project ideas that I could learn from.
 
 - 🔭 I’m currently remaking school projects while I'm job hunting
-- 🌱 I’m currently doing courses on Boot.dev
+- 🌱 I’m currently doing courses on Boot.dev, so that's why some weeks may seem empty.
 - 📫 How to reach me: danica.kvilhaug@pm.me
 
 <!--
