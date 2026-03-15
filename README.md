@@ -1,11 +1,21 @@
 ## Hi there 👋
 
-My name is Danica, and I am a newly graduated Backend-Developer student! I am open to hear any interesting project ideas that I could learn from.
+I'm Danica, a software developer in Norway. I graduated as a backend developer in 2025.<br>
+My main tech stack is:
+- **Asp.Net Core**
+- **Entity Framework Core**, though I can use **ADO.NET** as well.
+- **Docker** for prototyping
 
-- 🔭 I’m currently remaking school projects while I'm job hunting
-- 🌱 I’m currently doing courses on Boot.dev, so that's why some weeks may seem empty.
-- 📫 How to reach me: danica.kvilhaug@pm.me
+As for the languages I am quite confident in:
+- **C#**
+- **Python**
+- **SQL**
 
+#### Hobbies
+- Video Games
+- Reading
+- Music
+- Learning new things/tech.
 <!--
 **Foxiecat/Foxiecat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
