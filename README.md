@@ -5,6 +5,7 @@ My main tech stack is:
 - **Asp.Net Core**
 - **Entity Framework Core**, though I can use **ADO.NET** as well.
 - **Docker** for prototyping
+- **Blazor** *(Since I know C# I decided Blazor would be the best Frontend framework for me to learn. I picked it up somewhat recently, so I am still learning. I do also want to learn another framework as well, one not part of .Net, like React or Vue.js for example.)*
 
 As for the languages I am quite confident in:
 - **C#**
@@ -12,21 +13,6 @@ As for the languages I am quite confident in:
 - **SQL**
 
 #### Hobbies
-- Video Games
-- Reading
-- Music
-- Learning new things/tech.
-<!--
-**Foxiecat/Foxiecat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Video Games** *(Right now I am playing a lot of both regular Elden Ring and Nightreign, as well as Pokemon Scarlet and a bit of Monster Hunter Generations Ultimate)*
+- **Music**
+- **Reading**
