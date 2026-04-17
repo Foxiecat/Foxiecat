@@ -12,7 +12,7 @@ As for the languages I am quite confident in:
 - **Python**
 - **SQL**
 
-#### Projects
+#### My Projects
 - **[InfoScreen](https://gitlab.com/Foxiecat/infoscreen)** - A digital wayfinding and company directory application for displaying tenant information.
 
 #### Hobbies
