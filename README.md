@@ -13,7 +13,7 @@ As for the languages I am quite confident in:
 - **SQL**
 
 #### Projects
-- **[InfoScreen](https://gitlab.com/Foxiecat/infoscreen)** - A digital wayfinding and company directory application for displaying tenant information on info screens and kiosks.
+- **[InfoScreen](https://gitlab.com/Foxiecat/infoscreen)** - A digital wayfinding and company directory application for displaying tenant information.
 
 #### Hobbies
 - **Video Games** *(Right now I am playing a lot of both regular Elden Ring and Nightreign, as well as Pokemon Scarlet and a bit of Monster Hunter Generations Ultimate)*
