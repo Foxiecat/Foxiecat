@@ -16,3 +16,6 @@ As for the languages I am quite confident in:
 - **Video Games** *(Right now I am playing a lot of both regular Elden Ring and Nightreign, as well as Pokemon Scarlet and a bit of Monster Hunter Generations Ultimate)*
 - **Music**
 - **Reading**
+
+#### Projects
+- **[InfoScreen](https://gitlab.com/Foxiecat/infoscreen)**
